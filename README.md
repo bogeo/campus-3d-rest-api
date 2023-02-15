@@ -1,4 +1,4 @@
-# Campus3D REST AP
+# Campus3D REST API
 In this GitHub repository, the Campus3D REST API will be available within the next few days.
 
 ### License
