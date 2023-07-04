@@ -1,5 +1,4 @@
 # Campus3D REST API
-In this GitHub repository, the Campus3D REST API will be available within the next few days.
 
 ## General Information
 The Campus3D framework consists of two software components:
@@ -14,8 +13,7 @@ Apache License, Version 2.0
 - Benno Schmidt, Bochum University of Applied Sciences, Geovisualization Lab
 
 ## Contact
-The Campus3D project is maintained by the [Geovisualization Lab](https://www.hochschule-bochum.de/fbg/einrichtungen-im-fachbereich/labor-fuer-geovisualisierung-geovis/) at Bochum University of Applied Sciences.
-If you have any questions about this or any other repository related to Campus3D, please contact us.
+The Campus3D project is maintained by the [Geovisualization Lab](https://www.hochschule-bochum.de/fbg/einrichtungen-im-fachbereich/labor-fuer-geovisualisierung-geovis/) at Bochum University of Applied Sciences. If you have any questions about this or any other repository related to Campus3D, please contact us.
 
 
 
